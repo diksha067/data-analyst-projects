@@ -34,7 +34,9 @@ Cash on Delivery (COD) is the most commonly used payment mode, while other digit
 This donut chart shows the distribution of product quantity across categories:
 
 Clothing
+
 Electronics
+
 Furniture
 
 Insight:
@@ -61,9 +63,13 @@ These KPIs provide a quick overview of the overall business performance.
 This horizontal bar chart shows the profit generated from different product sub-categories, such as:
 
 Printers
+
 Bookcases
+
 Saree
+
 Accessories
+
 Tables
 
 Insight:
@@ -74,11 +80,17 @@ Printers generate the highest profit, followed by bookcases, while tables contri
 This bar chart shows the profit generated from different states.
 
 States included:
+
 Madhya Pradesh
+
 Maharashtra
+
 Uttar Pradesh
+
 Tamil Nadu
+
 Punjab
+
 Haryana
 
 Insight:
@@ -89,10 +101,15 @@ Madhya Pradesh and Maharashtra contribute the highest profits, while other state
 This bar chart displays the total purchase amount by different customers, including:
 
 Harivansh
+
 Madhav
+
 Madan Mohan
+
 Shiv
+
 Vishakha
+
 Vrinda
 
 Insight:
